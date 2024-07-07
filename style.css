@@ -1,0 +1,95 @@
+body{
+    background-color: #e7e9eb;
+}
+h1{
+    background-color: rgb(114, 186, 219);
+    height: 80px;
+    width: 400px;
+    padding-top: 30px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px;
+}
+form{
+    background-color: rgb(114, 186, 219);
+    height: 350px;
+    width: 400px;
+    padding-top: 30px;
+    /* text-align: center; */
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px;
+}
+.main{
+    padding-top: 70px;
+    padding-left: 300px;
+    background-color: rgb(222, 175, 175);
+    height: 600px;
+    width: 700px;
+    /* text-align: center; */
+    margin-top: 100px;
+    margin-left: 330px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px;
+}
+.main:hover{
+    background-color: white;
+}
+.number1{
+    font-size: 20px;
+    padding-left: 15px;
+    
+}
+.number2{
+    font-size: 20px;
+    padding-left: 15px;
+}
+.number3{
+    font-size: 20px;
+    padding-left: 15px;
+}
+p{
+    font-size: 20px;
+    padding-left: 15px;
+}
+.inner{
+    display: flex;
+    text-align: center;
+}
+#num1{
+    margin-left: 25px;
+    width: 150px;
+    border-radius: 7px;
+    padding-left: 10px;
+
+}
+
+#num2{
+    /* margin-left: 2px; */
+    width: 150px;
+    border-radius: 7px;
+    padding-left: 10px;
+
+}
+#operation{
+    margin-left: 46px;
+    width: 155px;
+    border-radius: 7px;
+    padding-left: 10px;
+
+}
+#result{
+    margin-left: 155px;
+    font-size: 30px;
+
+}
+.btn{
+    margin-left: 150px;
+    margin-top: 10px;
+    width: 130px;
+    height: 35px;
+    border-radius: 20px;
+}
+.btn:hover{
+    background-color: rgb(142, 142, 227);
+    color: white;
+}
