@@ -28,5 +28,5 @@ function calculate() {
     }
 
     // Display the result on the webpage
-    document.getElementById("result").textContent = "Result: " + result;
+    document.getElementById("result").textContent = ":" + result;
 }
